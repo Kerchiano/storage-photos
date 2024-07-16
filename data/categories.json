@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Піци",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/pizza_icon.svg"
+  },
+  {
+    "title": "Суші та сети",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/sushi_icon.svg"
+  },
+  {
+    "title": "Бургери та закуски",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/burger_icon.svg"
+  },
+  {
+    "title": "Гарячі страви",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/hot_dish_icon.svg"
+  },
+  {
+    "title": "Супи",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/soup_icon.svg"
+  },
+  {
+    "title": "Салати",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/salad_icon.svg"
+  },
+  {
+    "title": "Десерти",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/desert_icon.svg"
+  },
+  {
+    "title": "Напої",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/caee656ac57faa4471e423c540870f48b96ffb42/pizza_photos/drinks_icon.svg"
+  }
+]

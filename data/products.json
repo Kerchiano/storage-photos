@@ -1,0 +1,474 @@
+[
+  {
+    "title": "Піца Маргарита (445г)",
+    "description": "Соус маринара, помідори, сир моцарела, соус часниковий.",
+    "price": "188",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/margarita.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца Фрутті де Маре (460г)",
+    "description": "Вершково-сирна піца з тигровими креветками, м'ясом мідій, кальмаром, сиром моцарела, орегано та томатами черрі.",
+    "price": "325",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/frutti_de_mare.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца Супер м'ясна метрова (1300г)",
+    "description": "Філе куряче sous-vide, шинка, мисливські ковбаски, пепероні, сир моцарела, печериці, цибуля ріпчаста, петрушка, соус BBQ та трюфельна олія.",
+    "price": "699",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/meat_metr.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца Вітела (560г)",
+    "description": "Ніжна рвана телятина, сир Моцарела, болгарський перець, солений огірок, зелена цибуля, перець халапеньо, соус Вітелло тонато",
+    "price": "325",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vitela.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца Цезар (570г)",
+    "description": "Філе куряче sous-vide, хрусткий бекон, томати, мікс салатів, яйце перепелине, сир Моцарела, сир Пармезан, соус Цезар",
+    "price": "289",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cezar.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца Поло (550г)",
+    "description": "Філе куряче sous-vide, перець болгарський, сир моцарела, ананас, часник, соус маринара, соус BBQ.",
+    "price": "295",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/polo.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца BBQ (580г)",
+    "description": "Філе куряче sous-vide, мисливськи ковбаски, пепероні, сир моцарела, кукурудза, гірчица, цибулевий конфітюр, соуси маринара.",
+    "price": "295",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/bbq.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Піца Чотири сири (430г)",
+    "description": "Сир дор блю, сир чеддер, сир пармезан, сир моцарела, груша, горіх волоський, вершковий соус та трюфельна олія.",
+    "price": "255",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/four_cheeses.jpg",
+    "category": "Піци",
+    "topping": [
+      "Соус барбекю",
+      "Соус сирний",
+      "Сирний бортик"
+    ]
+  },
+  {
+    "title": "Три Дракони (900г/24 шт)",
+    "description": "Рол з лососем, сурімі-кімчі, трюфельним крем сиром, авокадо, огірком, ананасом, зеленою цибулею, ікрою тобіко, слайсами кумквату, мигдалевими пластівцями, соусами спайсі юзу та чилі солодкий; Рол з креветкою панко, авокадо, сиром Філадельфія, огірком, соусом васабі; Рол з вугром, лососем панко, сиром Філадельфія, солодкими шіїтаке, огірком, омлетом тамаго-унагі, такуаном, ікрою тобіко, соусами унагі, зеленою цибулею та смаженим шалотом та спецією Фурікаке.",
+    "price": "869",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/three_dracons.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Сієста L (925г/32шт)",
+    "description": "Рол з лососем, креветкою, сиром Філадельфія, огірком та соусом чилі солодкий; Фелікс-рол з вугром, сурімі-кімчі, сиром Філадельфія, омлетом тамаго-унагі, огірком та соусом унагі; Рол з грильованим лососем, сиром Філадельфія, авокадо, огірком в ікрі тобіко; Рол з копченною горбушею, сиром Філадельфія, салатом айсберг, огіроком, кранч панко, гостро-цитрусовий соус спайсі юзу.",
+    "price": "699",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/siesta_l.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Сієста XL (1200г/40шт)",
+    "description": "Рол з лососем, креветкою, сиром Філадельфія, огірком та соусом чилі солодкий; Фелікс-рол з вугром, сурімі-кімчі, сиром Філадельфія, омлетом тамаго-унагі, огірком та соусом унагі; Рол з грильованим лососем, сиром Філадельфія, авокадо, огірком в ікрі тобіко; Рол з копченною горбушею, сиром Філадельфія, салатом айсберг, огіроком, кранч панко, гостро-цитрусовий соус спайсі юзу; Рол з тунцем, сиром Філадельфія, грушою, соусом унагі та міксом кунжуту.",
+    "price": "899",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/siesta_xl.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Сієста XXL (1465г/48шт)",
+    "description": "Рол з лососем, креветкою, сиром Філадельфія, огірком та соусом чилі солодкий; Фелікс-рол з вугром, сурімі-кімчі, сиром Філадельфія, омлетом тамаго-унагі, огірком та соусом унагі; Рол з грильованим лососем, сиром Філадельфія, авокадо, огірком в ікрі тобіко; Рол з копченною горбушею, сиром Філадельфія, салатом айсберг, огіроком, кранч панко, гостро-цитрусовий соус спайсі юзу; Рол з тунцем, сиром Філадельфія, грушою, соусом унагі та міксом кунжуту; Рол з сурімі-кімчі, сиром чедер, авокадо, сиром Філадельфія, огірком, соусом унагі.",
+    "price": "999",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/siesta_xxl.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Тропік L (860г/32шт)",
+    "description": "Рол з сурімі-кімчі, огірком, омлетом тамаго-унагі в ікрі тобіко; Рол з сиром Філадельфія, огірком, соусом унагі в кунжуті; Рол з копченою горбушею, сиром Філадельфія, томатами конкасе, салатом айсберг, зеленим луком, майонезом, фірмовою спецією фурікаке; Рол з сиром Філадельфія, дор блю, слайсами сиру чеддер, грушею, солодкими рисовими кульками, соусом унагі.",
+    "price": "599",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/tropik_l.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Тропік XL (1200г/46шт)",
+    "description": "Рол з сурімі-кімчі, огірком, омлетом тамаго-унагі в ікрі тобіко; Рол з сиром Філадельфія, огірком, соусом унагі в кунжуті; Рол з копченою горбушею, сиром Філадельфія, томатами конкасе, салатом айсберг, зеленим луком, майонезом, фірмовою спецією фурікаке; Рол з сиром Філадельфія, дор блю, слайсами сиру чеддер, грушею, солодкими рисовими кульками, соусом унагі. Макі з вугром, огірком, соусом унагі, міксом кунжуту; Футомакі з масляною рибою, сиром Філадельфія, салатом айсберг, огірком, соусом шрірачі.",
+    "price": "799",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/tropik_xl.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Тропік XXL (1430г/54 шт)",
+    "description": "Рол з сурімі-кімчі, огірком, омлетом тамаго-унагі в ікрі тобіко; Рол з сиром Філадельфія, огірком, соусом унагі в кунжуті; Рол з копченою горбушею, сиром Філадельфія, томатами конкасе, салатом айсберг, зеленим луком, майонезом, фірмовою спецією фурікаке; Рол з сиром Філадельфія, дор блю, слайсами сиру чеддер, грушею, солодкими рисовими кульками, соусом унагі. Макі з вугром, огірком, соусом унагі, міксом кунжуту; Футомакі з масляною рибою, сиром Філадельфія, салатом айсберг, огірком, соусом шрірачі. Рол з філе тунця, сиром Філадельфія, ананасом, соусом унагі, в паніровці зі стружки тунця Боніто.",
+    "price": "899",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/tropik_xxl.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Хот Рору (500г/24шт)",
+    "description": "Темпура рол з лососем; Темпура рол з вугром та огірком; Темпура рол з тунцем; Соусами унагі, солодким чилі, спайсі юзу та мікрогріном.",
+    "price": "449",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/hot_roru.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Філадельфія (1320г/40шт)",
+    "description": "Класичний рол з лососем, сиром Філадельфія та огірком; Рол з тунцем, сиром Філадельфія та огірком; Рол з креветкою, сиром Філадельфія, огірком та соусом чилі; Рол з вугром, сиром Філадельфія, огірком та соусом унагі в кунжуті; Рол з сиром Філадельфія, огірком, соусом унагі в кунжуті.",
+    "price": "999",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/philadelphia.jpg",
+    "category": "Суші та сети",
+    "topping": []
+  },
+  {
+    "title": "Комбо меню Дабл Чізбургер (280/100/24г)",
+    "description": "Бургер Дабл Чизбургер, картофель фри, соус BBQ",
+    "price": "285",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/double_chisburger.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Комбо меню Кінг Йорк (210/100/25г)",
+    "description": "Бургер Кинг Йорк, картофель фри, соус BBQ",
+    "price": "225",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/burger_king_york.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Пивна тарілка (690/100г)",
+    "description": "Курячі крильця в соусі приван, курячі стікси з соусом унагі та білим кунжутом, картопляні нозети, цибулеві кільця, курячий попкорн, грінки, соуси BBQ і сирний",
+    "price": "455",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/beer_plate.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Сирні палички із соусом з журавлини (175/30г)",
+    "description": "Сир моцарелла в паніровці з сухарів панко",
+    "price": "195",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cheese_palochki.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Смажені свинячі вушка (160г)",
+    "description": "Смажені свинячі вушка в соусі теріякі з міксом кунжуту, перцем чилі та кінзою",
+    "price": "145",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/pig_ears.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Кріспі-асорті (505/60г)",
+    "description": "Куряче філе в паніровці панко, тигрові креветки в паніровці панко, сир Брі в паніровці панко, картопля фрі, соус чилі солодкий, соус журавлини, мікрогрін",
+    "price": "349",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/crispy_asorti.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Картопля фрi (140г)",
+    "description": "Картопля фрi",
+    "price": "105",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/potato_fri.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Бургер Кінг Йорк (210г)",
+    "description": "Котлета з яловичини, сир Хохланд, салат Айсберг, фіолетова цибуля, маринований огірок, помідор, фірмовий соус",
+    "price": "165",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/king_york.jpg",
+    "category": "Бургери та закуски",
+    "topping": []
+  },
+  {
+    "title": "Стейк зі свинини на грилі (195/100г)",
+    "description": "Стeйк зі свиного ошийка sous-vide в соусі Теріякі з овочами-гриль: баклажан, цукіні, червона цибуля, болгарський перець",
+    "price": "335",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/steak_pig_grill.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Куряча грудка гриль з гарніром (170/120/80г)",
+    "description": "Філе куряче sous-vide обсмажене на грилі, стручкова квасоля, печериці, часник, цибуля фрі, вершки, соєвий соус, приправа Сумах, мікрогрін. Гарнір на вибір",
+    "price": "275",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/chicken_grill.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Томлена телятина з гарніром (150/120/55г)",
+    "description": "Телятина sous-vide, стручкова квасоля, томати на грилі, печериці, часник, соєвий соус, приправа Сумах, мікрогрін. Гарнір на вибір",
+    "price": "365",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/beef.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Котлета по-київськи з картопляним пюре (100/200/60г)",
+    "description": "Котлета по-київськи з картопляним пюре, мікс салатів, томати, апельсиновий соус, приправа Сумах, мікрогрін",
+    "price": "199",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cutlet_by_kievski.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Смажені креветки з авокадо (190г)",
+    "description": "Смажені тигрові креветки та авокадо в соусі Чилі, подаються з лимоном та мікрогріном",
+    "price": "319",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/shrimp_avokado.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Пюре із батату (215г)",
+    "description": "Пюре із батату, сир Пармезан, вершкове масло, часникова олія, приправа Сумах, мікрогрін",
+    "price": "145",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/puree.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Тальятеле з лососем та креветками (365г)",
+    "description": "Паста з лососем та креветками, томатами, цукіні, вершковим соусом та сиром Пармезан",
+    "price": "295",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/tagliatelle_salmon_shrimp.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Смажений тайский рис з куркою (330/15 г)",
+    "description": "Рис жасмін, курка, яйце, боби, овочі та гриби, тайський соус",
+    "price": "199",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/rice_chicken_grill.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Овочі гриль (310г)",
+    "description": "Баклажан, цукіні, печериці, перець болгарський, вершковий соус з пармезаном",
+    "price": "175",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vegetables_grill.jpg",
+    "category": "Гарячі страви",
+    "topping": []
+  },
+  {
+    "title": "Борщ український з реберцями (370/20/50г)",
+    "description": "Бульйон зі свинини, ребро, картопля, морква, буряк, цибуля, капуста, томатна паста, зелень. Подається з чорним хлібом, салом з часником, сметаною.",
+    "price": "149",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/borsh.jpg",
+    "category": "Супи",
+    "topping": []
+  },
+  {
+    "title": "Окрошка з лососем (400г)",
+    "description": "Окрошка зі слабосоленим лососем на основі сметани, гірчиці, майонезу, васабі, картоплі, свіжого огірка, яйця, редиски, зеленої цибулі, кропу.",
+    "price": "159",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/okroshka_salmon.jpg",
+    "category": "Супи",
+    "topping": []
+  },
+  {
+    "title": "Окрошка з куркою (400г)",
+    "description": "Окрошка з курячою грудкою на основі сметани, гірчиці, майонезу, картоплі, свіжого огірка, яйця, редиски, зеленої цибулі, кропу.",
+    "price": "129",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/okroshka_chicken.jpg",
+    "category": "Супи",
+    "topping": []
+  },
+  {
+    "title": "Рамен (350г)",
+    "description": "Класичний суп рамен з яєчною локшиною, пряною свинною грудинкою, маринованим яйцем та смаженим кунжутом",
+    "price": "199",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/ramen.jpg",
+    "category": "Супи",
+    "topping": []
+  },
+  {
+    "title": "Цезар з креветками (235г)",
+    "description": "Креветки обсмажені, томати, мікс салатів, яйце перепелине, сир Пармезан, пшеничний чіпс, соус Цезар, мікрогрін",
+    "price": "299",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cezar_shrimps.jpg",
+    "category": "Салати",
+    "topping": []
+  },
+  {
+    "title": "Цезар з куркою (260г)",
+    "description": "Філе куряче sous-vide, хрусткий бекон, томати, мікс салатів, яйце перепелине, сир Пармезан, мікрогрін,пшеничний чіпс, соус Цезар",
+    "price": "235",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cezar_chicken.jpg",
+    "category": "Салати",
+    "topping": []
+  },
+  {
+    "title": "Тонато туна (285г)",
+    "description": "Смажене філе тунця в паніровці з міксу кунжуту, томати , мікс салатів, печериці, спаржева квасоля, соус Вітелло тонато, сир Пармезан, пшеничний чіпс, мікрогрін",
+    "price": "355",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/tonato_tuna.jpg",
+    "category": "Салати",
+    "topping": []
+  },
+  {
+    "title": "Салат з ростбіфом (270г)",
+    "description": "Ростбіф, мікс салатів, в'ялені томати, свіжий помідор, оливки каламата, червона цибуля, сир Пармезан, трюфельна олія, соус Вітелло тонато",
+    "price": "245",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/salad_rostbif.jpg",
+    "category": "Салати",
+    "topping": []
+  },
+  {
+    "title": "Салат Грецький (245г)",
+    "description": "Томати, болгарський перець, огірки, сир Фета, оливки каламата, червона цибуля, мiкс салатiв з оливковою олiєю та соусом Бальзамiк",
+    "price": "175",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/salad_greece.jpg",
+    "category": "Салати",
+    "topping": []
+  },
+  {
+    "title": "Чізкейк класичний (150г)",
+    "description": "Класичний чізкейк Нью-Йорк з горіховим сабле",
+    "price": "145",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cheesecake.jpg",
+    "category": "Десерти",
+    "topping": []
+  },
+  {
+    "title": "Наполеон (90г)",
+    "description": "Наполеон з ванільним заварним кремом",
+    "price": "119",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/napoleon.jpg",
+    "category": "Десерти",
+    "topping": []
+  },
+  {
+    "title": "Брауні з карамеллю (115/15г)",
+    "description": "Брауні з чорного та молочного шоколаду, солоною карамеллю та фундуком",
+    "price": "175",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/brauni_caramel.jpg",
+    "category": "Десерти",
+    "topping": []
+  },
+  {
+    "title": "Десерт Чізкейк полуничний (150/15г)",
+    "description": "Чізкейк з полуничним конфітюром, бельгійським шоколадом та сублімованими ягодами",
+    "price": "145",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cheesecake_strawberry.jpg",
+    "category": "Десерти",
+    "topping": []
+  },
+  {
+    "title": "Апельсин (0,95л)",
+    "description": "Пакетований апельсиновий сік",
+    "price": "119",
+    "image": "https://github.com/Kerchiano/storage-photos/blob/main/pizza_photos/juice_orange.jpg?raw=true",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Вишня (0,95л)",
+    "description": "Пакетований солодкий вишневий нектар",
+    "price": "119",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/juice_cherry.jpg",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Томат (0,95л)",
+    "description": "Пакетований томатний сік",
+    "price": "119",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/juice_tomato.jpg",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Borjomi (500 мл)",
+    "description": "Газована мінеральна вода",
+    "price": "99",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/borjomi.jpg",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Pepsi (500 мл)",
+    "description": "Газований напій",
+    "price": "55",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/pepsi.jpg",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Aperol (1л)",
+    "description": "Аперитив. Італія",
+    "price": "799",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/Aperol.jpg",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Riesling Troken Abtei Himmerod (0,75л)",
+    "description": "Біле сухе вино. Німеччина",
+    "price": "599",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/riesling_troken.jpg",
+    "category": "Напої",
+    "topping": []
+  },
+  {
+    "title": "Oakheart Original (1л)",
+    "description": "Пряний ром. Німеччина / Італія",
+    "price": "999",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/oakheart.jpg",
+    "category": "Напої",
+    "topping": []
+  }
+]

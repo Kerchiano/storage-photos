@@ -1,0 +1,406 @@
+[
+  {
+    "address": "вул. Хрещатик, 6",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_kresh_6.jpeg",
+    "phone_number": "(067) 570 18 39",
+    "open_time": "11:00",
+    "close_time": "23:00",
+    "description": "Ви ніколи не бували в Римі, не насолоджувались вишуканими панорамами Вічного міста, не відпочивали в найкращих італійських ресторанах із гламурною позолотою в інтер’єрі?\n\nНе поспішайте пакувати валізи й оформлювати «шенген»! Вам не треба їхати до Риму, щоб побувати в найкращому італійському ресторані!\n\nНайрозкішніший ресторан італійської та японської кухні знаходиться всього у двох кроках від вас — у серці Києва, на Хрещатику!\n\nІнтер’єр нової MAFIA дивовижний: він виконаний у стилі ампір італійської області Валле-д’Аоста — венеційське скло на стінах, мармурова підлога, сусальне золото (!) в елементах декору, дизайнерські люстри й просторі зали на трьох рівнях ресторану.\n\nТа найбільше дивує інше. Чек за вечерю в такій вишуканій атмосфері не містить кількох нулів після першої цифри, навпаки, він стримано демократичний і цілком привабливий!\n\nУ нашому ресторані є караоке-клуб, де ваші пісні лунатимуть з потужністю 6 кВт чистого звуку. Крім того, на наших гостей чекає професійне звукове обладнання JBL та мікрофони Sennheiser — безсумнівний вибір естрадних знаменитостей. У нас постійно оновлюється репертуар, і зараз ми пропонуємо багатий вибір — 18000 пісень!\n\nМи гарантуємо, що зірки вокалу віднині запалюватимуться тут, у караоке-клубі MAFIA! Заспівайте в найбільш презентабельному ресторані на Хрещатику, і всесвітня слава не забариться!",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "24h",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/24h.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Левка Лук'яненка, 21, корп. 3",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_levka.jpeg",
+    "phone_number": "(067) 572-17-62",
+    "open_time": "11:00",
+    "close_time": "23:00",
+    "description": "25 липня 2009 року мережа MAFIA відкрила перший ресторан у Києві.\n\nПерша столична MAFIA відкрилась на Оболоні поряд зі станцією метро «Мінська». Це перший поверх 24-поверхового будинку за адресою: вул. Маршала Тимошенка, 21, корпус 3.\n\nВишуканий італійський інтер’єр, надзвичайно смачна італійська та японська кухня від талановитого шеф-кухаря. Чудове місце для відпочинку з родиною чи друзями, для романтичної вечері чи ділової зустрічі.",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+    
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Оноре де Бальзака, 63",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_onore.jpeg",
+    "phone_number": "(067) 543-57-57  ",
+    "open_time": "12:00",
+    "close_time": "23:00",
+    "description": "Тепер щоб скуштувати італійську піцу, можна не їхати до Італії, не треба навіть вирушати в центр міста! Адже новий ресторан MAFIA відкрився в ще одному районі Троєщини.\n\nНова MAFIA на вул. О.Бальзака, 63\n\nУсі привілеї мережі ресторанів MAFIA стають ближчими!",
+    "city": "Київ",
+    "service": []
+  },
+  {
+    "address": "пр-т. Берестейський, 136",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_berest.jpeg",
+    "phone_number": "(067) 226-35-35",
+    "open_time": "12:00",
+    "close_time": "23:00",
+    "description": "На проспекті Перемоги, 136 вас вже чекає нова MAFIA!\n\nАбсолютно новий сучасний дизайн, контактний бар, оновлене меню і незмінна любов до кожного гостя.\n\nПриходьте! Наші двері вже відкриті для вас!\n\nP.S. і обов'язково спробуйте піцу з дровяної печі.",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "24h",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/24h.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Велика Васильківська, 76",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_vel_vasilk.jpeg",
+    "phone_number": "(067) 579-10-49",
+    "open_time": "11:00",
+    "close_time": "23:00",
+    "description": "«Оксамитова» MAFIA порадує вас чотирма затишними світлими залами, відкритим майданчиком і широким вибором страв італійської та японської кухні.\n\nРозкіш інтер’єру, зручні меблі й при цьому досить лояльні ціни — ось характерні риси сучасного ресторану мережі MAFIA.\n\nДля дітей ми щовихідних проводимо заняття в «Клубі юних кухарів» (11.00–13.00). Ваші діти зможуть самостійно (під дбайливим керівництвом наших кухарів!) приготувати піцу, сусі, роли, а також пригостити своїми шедеврами батьків! Знижка на приготовані дітьми страви — 20 %.\n\nЗапрошуємо вас у гості всією родиною!",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Богдана Хмельницького, 27/1",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_bohdan.jpeg",
+    "phone_number": "(067) 403-03-48",
+    "open_time": "10:00",
+    "close_time": "23:00",
+    "description": "У нас ви можете скористатися:\n\n• літнім майданчиком;\n\nВи вірите в збіги? А в містичні випадковості?\n\nМи ще не вирішили, як до цього ставитися, але той факт, що 11.11.11 відкрився одинадцятий ресторан мережі закладів MAFIA, нас надзвичайно тішить. Від щирого серця бажаємо, щоб цей факт радував і вас, наші любі гості! І не тільки 11.11.11, але й сьогодні, й завтра, й завжди!\n\nТепер ви можете проводити свої сніданки, ділові зустрічі, романтичні вечері й дні народження за адресою: Богдана Хмельницького, 27/1.\n\nУ меню — хіти італійської та японської кухні за традиційно демократичними цінами. Крім того, вас приємно здивують наші спеціальні пропозиції — метрові піци та сусі-сети.\n\nЧекаємо на вас, любимо вас!",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "24h",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/24h.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Харківське шосе, 144а",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_kharkiv_shosse.jpeg",
+    "phone_number": "(067) 383-51-51",
+    "open_time": "11:00",
+    "close_time": "23:00",
+    "description": "За ароматною піцою, справжньою лазаньєю чи різноманіттям різотто раніше доводилось їхати до Італії. За справжніми сусі та ролами — до Японії. Але з’явились ресторани MAFIA, і хітами італійської та японської кухні можна насолоджуватися, не залишаючи столиці. Досить просто потрапити на правий берег Дніпра.\n\nА для всіх поціновувачів італійської та японської кухні, котрі живуть на лівому березі, сім’я ресторанів MAFIA приготувала справжній сюрприз. 1 квітня, у найрадісніший день року, велика родина поповнилась новим рестораном! На вас чекає незабутній інтер’єр у дусі ампір італійської області Валле-д’Аоста з венеційським склом, дизайнерськими люстрами й мармуром в інтер’єрі!\n\nРежим роботи караоке-клубу: ПТ-СБ з 17:00 до 22:00\n\nТел.: +380673835151",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "24h",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/24h.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Вадима Гетьмана, 6, ТРЦ \"COSMO MULTIMALL\"",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_vad_getman.jpeg",
+    "phone_number": "(068) 411-73-75 (099) 428-94-01",
+    "open_time": "11:00",
+    "close_time": "21:30",
+    "description": "Приходьте в новий ресторан і насолоджуйтеся особливим стильним інтер'єром, чудовою кухнею і демократичними цінами! Подаруйте собі частинку гармонії і щастя в цьому метушливому світі.\n\nДо того ж, MAFIA - прекрасне місце, щоб розслабитися після шопінгу.\n\nЧекаємо! Наші двері вже відкриті для вас!\n\nЗапрошуємо на роботу:\n\nОфіціанта\nБармена\nКур'єра\n\nДеталі за телефоном: +380684117375",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      },
+      {
+        "title": "Parking",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/parcking.png"
+      }
+    ]
+  },
+  {
+    "address": "Голосіївський проспект, 98/2",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_golos_pros.jpeg",
+    "phone_number": "(050) 370-11-99",
+    "open_time": "11:00",
+    "close_time": "21:00",
+    "description": "Запрошуємо на роботу:\n\nОфіціанта\nБармена\nГосподарочку\nСушиста\nПовара універсала\nМенеджера доставки\nАдміністратора залу\nКасира\nКур'єра\n\nДеталі за телефоном: +380503701199",
+    "city": "Київ",
+    "service": [
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "Квітки-Основ'яненка, 7",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_kvitki_osnovyanenko.jpeg",
+    "phone_number": "(073) 435-77-05",
+    "open_time": "10:00",
+    "close_time": "22:00",
+    "description": "Ресторан на Квітки-Основʼяненко по праву може вважатися батьком «мафіозної» сімʼї. Саме ця MAFIA перша відчинила двері для своїх гостей: фірмова метрова піца, оригінальний інтерʼєр і демократичні ціни припали до смаку багатьом харківʼянам. Ну а коли до таких улюблених багатьма страв італійської кухні було додано суші-бар, сумнівів у тому, що MAFIA прийшла в місто всерйоз і надовго, не залишилося.\n\nДо речі, в MAFIA на Квітки побувало багато знаменитостей. У різний час у ресторані відпочивали після виступів такі відомі групи, як Fleur, Green Gray, Дідюля, «Нічні снайпери», «Пікнік»...\n\nMAFIA сьогодні – це сучасний демократичний ресторан з якісним обслуговуванням і цінами, доступними для людей із середнім рівнем статку. Але найважливіша прикмета закладу – неповторна атмосфера. Хто був в Італії, той знає, які гостинні італійці, які вони природно доброзичливі...\n\nЧекаємо вас у гості!",
+    "city": "Харків",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Ярослава Мудрого, 37",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_yaroslava_mudrogo.jpeg",
+    "phone_number": "(099) 212-80-65",
+    "open_time": "10:00",
+    "close_time": "22:00",
+    "description": "Торговельний центр «КУБ» розташований у самісінькому центрі міста, але не в тому центрі, де вічно шумлять машини, а люди із заклопотаними обличчями поспішають потрапити у величезні будівлі з бетону й скла... Цей район міста зумів зберегти особливий колорит: невисокі будиночки й вузенькі вулички змушують притишити крок і подивитися на прекрасний світ довкола нас.\n\nMAFIA в ТЦ «КУБ» цілком увібрала в себе цей колорит, поєднавши сучасний стиль і модний інтерʼєр зі спокоєм старого міста. Тут ви можете випити каву, спостерігаючи за авто й перехожими крізь величезне вікно або провести вечір у гучній компанії друзів у караоке-залі.\n\nВи можете також замовити банкет, фуршет або вечірку в MAFIA в КУБі. Окрема зала, страви італійської та японської кухні, спеціальне банкетне меню й, звісно, караоке – до ваших послуг.\n\nРежим роботи караоке-клубу: 22:00-05:00",
+    "city": "Харків",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "пр-т Л.Свободи 48-Г",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_prsp_svobody.jpeg",
+    "phone_number": "(067) 546-43-41",
+    "open_time": "10:00",
+    "close_time": "22:00",
+    "description": "Ресторан MAFIA на Олексіївці, ще один куточок сонячної  Італії в спальному районі міста.\n\nВін порадує своїх гостей світлим просторим інтер'єром з панорамними вікнами, комфортними кріслами, дитячою кімнатою, а в теплу пору року затишним літнім майданчиком.\n\nУ вашому розпорядженні вишукані страви італійської та японської кухні, доповнені фірмовими десертами та напоями на будь-який смак, завжди за демократичними цінами.\n\nПровести вечір з друзями і співати хоч до ранку можливо в караоке-клубі, де на вас чекає професійне звукове обладнання, запальний ведучий та постійне оновлення репертуару.\n\nРежим роботи караоке: 22:00-05:00\n\nЧекаємо на Вас!",
+    "city": "Харків",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      },
+      {
+        "title": "Parking",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/parcking.png"
+      }
+    ]
+  },
+  {
+    "address": "ТРК Україна, пр. Тракторобудівників, 59/56",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_trk_ukraina.jpeg",
+    "phone_number": "(067) 572-56-44 (093)997-85-75",
+    "open_time": "10:00",
+    "close_time": "22:00",
+    "description": "MAFIA караоке-клуб в ТРК «Україна» місце де відчуєте себе справжньою зіркою, під час виконання улюблених хітів. Якісний професійний звук, конкурси та сюрпризи від закладу, страви італійської та японської кухні, коктейлі на будь-який смак, затишна атмосфера,  до якої захочеться повертатися знову та знову.\n\nРесторан  працює в режимі банкетного залу. Страви японської та італійської кухні, а також спеціальні святкові страви з банкетного меню, гідно прикрасять ваш стіл. А в тому, що жодному з ваших гостей не буде нудно, можете навіть не сумніватися.\n\nРежим роботи караоке-клубу: 16:00-22:00",
+    "city": "Харків",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      },
+      {
+        "title": "Parking",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/parcking.png"
+      }
+    ]
+  },
+  {
+    "address": "вул. Володимира Мономаха, 2 к",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_volod_monomax.jpeg",
+    "phone_number": "(097) 278-28-83",
+    "open_time": "10:00",
+    "close_time": "22:00",
+    "description": "Впевнені, що четвертий в Дніпрі заклад відомої всеукраїнської мережі стане для вас улюбленим місцем відпочинку і розваг! Як завжди, гостей ресторану MAFIA порадує стильний інтер'єр, відмінна кухня і гнучка цінова політика. У меню ресторану гармонійно поєднуються не тільки страви японської та італійської кухні, а й шедеври кулінарії від шеф-кухаря з популярними демократичними хітами.\n\nЗ 17:00 чт-нд для вас працює караоке-зал MAFIA! Відмінна апаратура, якісні мінусовки, а також допомога звукорежисера і бек-вокаліста подарують відмінну можливість проявити себе як досвідченому вокалісту, так і любителю. І ще: гості MAFIA не платять за кожну пісню. Купуючи вхідний квиток, ви можете насолоджуватися співом! Поспішайте приєднатися до мафіозному сімейства!\n\nРежим роботи караоке: 17:00-22:00 (нд-чт), 17:00-23:00 (пт-сб).\n\nЧекаємо вас в гості!",
+    "city": "Дніпро",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Karaoke",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Нижньодніпровська, 17, ТРЦ \"Караван\"",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_nizhno_dnipro.jpeg",
+    "phone_number": "(096) 438-32-32",
+    "open_time": "10:00",
+    "close_time": "20:00",
+    "description": "Перша MAFIA в Дніпрі зʼявилася на лівому березі в торговельному центрі \"Караван\". Ресторан став справжньою знахідкою для жителів лівобережжя, адже в спальних районах на окраїні міста рідко можна знайти належне місце для приємної вечері. Тим часом, MAFIA чудово підходить як для сімейної трапези, так і для романтичного побачення.\n\nЯк завжди, філософія ресторану MAFIA – це зручність і якість за доступними цінами. Смачно й недорого пообідати, замовити бізнес-ланч або провести приємний і довгий вечір за розмовою із друзями, – асортимент ресторану і його атмосфера підійдуть для кожного із цих випадків.",
+    "city": "Дніпро",
+    "service": [
+      {
+        "title": "WiFi",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+      },
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  },
+  {
+    "address": "вул. Спаська, 45/3",
+    "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_spaska.jpeg",
+    "phone_number": "(066) 919 74 64",
+    "open_time": "11:00",
+    "close_time": "22:00",
+    "description": "",
+    "city": "Миколаїв",
+    "service": [
+      {
+        "title": "Delivery",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+      },
+      {
+        "title": "Visa",
+        "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+      }
+    ]
+  }
+]

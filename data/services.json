@@ -1,0 +1,26 @@
+[
+  {
+    "title": "WiFi",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/wifi.svg"
+  },
+  {
+    "title": "24h",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/24h.svg"
+  },
+  {
+    "title": "Karaoke",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/karaoke.svg"
+  },
+  {
+    "title": "Delivery",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/delivery.svg"
+  },
+  {
+    "title": "Visa",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/3fc294ef7c1dba884f5fc904212c78105ea76376/pizza_photos/visa.svg"
+  },
+  {
+    "title": "Parking",
+    "icon": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/parcking.png"
+  }
+]
