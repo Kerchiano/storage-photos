@@ -172,7 +172,7 @@
     "description": "Бургер Дабл Чизбургер, картофель фри, соус BBQ",
     "price": "285",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/double_chisburger.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -180,7 +180,7 @@
     "description": "Бургер Кинг Йорк, картофель фри, соус BBQ",
     "price": "225",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/burger_king_york.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -188,7 +188,7 @@
     "description": "Курячі крильця в соусі приван, курячі стікси з соусом унагі та білим кунжутом, картопляні нозети, цибулеві кільця, курячий попкорн, грінки, соуси BBQ і сирний",
     "price": "455",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/beer_plate.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -196,7 +196,7 @@
     "description": "Сир моцарелла в паніровці з сухарів панко",
     "price": "195",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/cheese_palochki.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -204,7 +204,7 @@
     "description": "Смажені свинячі вушка в соусі теріякі з міксом кунжуту, перцем чилі та кінзою",
     "price": "145",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/pig_ears.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -212,7 +212,7 @@
     "description": "Куряче філе в паніровці панко, тигрові креветки в паніровці панко, сир Брі в паніровці панко, картопля фрі, соус чилі солодкий, соус журавлини, мікрогрін",
     "price": "349",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/crispy_asorti.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -220,7 +220,7 @@
     "description": "Картопля фрi",
     "price": "105",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/potato_fri.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
@@ -228,7 +228,7 @@
     "description": "Котлета з яловичини, сир Хохланд, салат Айсберг, фіолетова цибуля, маринований огірок, помідор, фірмовий соус",
     "price": "165",
     "image": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/king_york.jpg",
-    "category": "Бургери та закуски",
+    "category": "Бургери",
     "topping": []
   },
   {
