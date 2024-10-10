@@ -2,6 +2,7 @@
   {
     "address": "вул. Хрещатик, 6",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_kresh_6.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-kreshatik.jpeg",
     "phone_number": "(067) 570 18 39",
     "open_time": "11:00",
     "close_time": "23:00",
@@ -33,6 +34,7 @@
   {
     "address": "вул. Левка Лук'яненка, 21, корп. 3",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_levka.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-levka.jpeg",
     "phone_number": "(067) 572-17-62",
     "open_time": "11:00",
     "close_time": "23:00",
@@ -57,6 +59,7 @@
   {
     "address": "вул. Оноре де Бальзака, 63",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_onore.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-onore-de-bal.jpeg",
     "phone_number": "(067) 543-57-57  ",
     "open_time": "12:00",
     "close_time": "23:00",
@@ -67,6 +70,7 @@
   {
     "address": "пр-т. Берестейський, 136",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_berest.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-prospect-berest.jpeg",
     "phone_number": "(067) 226-35-35",
     "open_time": "12:00",
     "close_time": "23:00",
@@ -94,6 +98,7 @@
   {
     "address": "вул. Велика Васильківська, 76",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_vel_vasilk.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-veluka-vas.jpeg",
     "phone_number": "(067) 579-10-49",
     "open_time": "11:00",
     "close_time": "23:00",
@@ -117,6 +122,7 @@
   {
     "address": "вул. Богдана Хмельницького, 27/1",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_bohdan.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-bohdan-khmel.jpeg",
     "phone_number": "(067) 403-03-48",
     "open_time": "10:00",
     "close_time": "23:00",
@@ -144,6 +150,7 @@
   {
     "address": "вул. Вадима Гетьмана, 6, ТРЦ \"COSMO MULTIMALL\"",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_vad_getman.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-veluka-vas.jpeg",
     "phone_number": "(068) 411-73-75 (099) 428-94-01",
     "open_time": "11:00",
     "close_time": "21:30",
@@ -171,6 +178,7 @@
   {
     "address": "Голосіївський проспект, 98/2",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_golos_pros.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-gol-prosp.jpeg",
     "phone_number": "(050) 370-11-99",
     "open_time": "11:00",
     "close_time": "21:00",
@@ -190,6 +198,7 @@
   {
     "address": "Квітки-Основ'яненка, 7",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_kvitki_osnovyanenko.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-kvitka-osnov.jpeg",
     "phone_number": "(073) 435-77-05",
     "open_time": "10:00",
     "close_time": "22:00",
@@ -217,6 +226,7 @@
   {
     "address": "вул. Ярослава Мудрого, 37",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_yaroslava_mudrogo.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-mudrogo.jpeg",
     "phone_number": "(099) 212-80-65",
     "open_time": "10:00",
     "close_time": "22:00",
@@ -244,6 +254,7 @@
   {
     "address": "пр-т Л.Свободи 48-Г",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_prsp_svobody.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-pros-svobodu.jpeg",
     "phone_number": "(067) 546-43-41",
     "open_time": "10:00",
     "close_time": "22:00",
@@ -275,6 +286,7 @@
   {
     "address": "ТРК Україна, пр. Тракторобудівників, 59/56",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_trk_ukraina.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-trk-ukraina.jpeg",
     "phone_number": "(067) 572-56-44 (093)997-85-75",
     "open_time": "10:00",
     "close_time": "22:00",
@@ -306,6 +318,7 @@
   {
     "address": "вул. Володимира Мономаха, 2 к",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_volod_monomax.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-monomaha.jpeg",
     "phone_number": "(097) 278-28-83",
     "open_time": "10:00",
     "close_time": "22:00",
@@ -333,6 +346,7 @@
   {
     "address": "вул. Нижньодніпровська, 17, ТРЦ \"Караван\"",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_nizhno_dnipro.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-karavan.jpeg",
     "phone_number": "(096) 438-32-32",
     "open_time": "10:00",
     "close_time": "20:00",
@@ -356,6 +370,7 @@
   {
     "address": "вул. Спаська, 45/3",
     "image_thumbnail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/main/pizza_photos/vul_spaska.jpeg",
+    "image_detail": "https://raw.githubusercontent.com/Kerchiano/storage-photos/refs/heads/main/pizza_photos/detail-vul-spaska.jpeg",
     "phone_number": "(066) 919 74 64",
     "open_time": "11:00",
     "close_time": "22:00",
